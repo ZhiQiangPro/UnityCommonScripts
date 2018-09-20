@@ -1,9 +1,3 @@
-﻿/************************************************************
-  Copyright (C), 2007-2017,BJ Rainier Tech. Co., Ltd.
-  FileName: MyDrawGLine.cs
-  Author: 崔志强      Version :1.0          Date: 
-  Description:
-************************************************************/
 
 using UnityEngine;
 using System.Collections;
